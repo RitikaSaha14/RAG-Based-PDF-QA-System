@@ -104,11 +104,11 @@ Open the notebook in VS Code or Jupyter Notebook and execute the cells in order.
 
 ## Project Status
 
-Update this section after running the notebook and verifying the workflow.
+This project explores a Retrieval-Augmented Generation (RAG) workflow for PDF-based question answering. The focus is on understanding document processing, semantic search, vector embeddings, and context-aware response generation.
 
-## Acknowledgment
+## Learning Outcomes
 
-This project is based on learning material from the
-[Complete GenAI Course — Python and LangChain](https://github.com/techsimpluslearning/Complete-GenAI-Course-Python-Langchain).
-
-The notebook and implementation should be credited in accordance with the original repository's license.
+- Understanding the end-to-end RAG pipeline.
+- Working with LangChain, OpenAI embeddings, and ChromaDB.
+- Exploring semantic retrieval and context-grounded answer generation.
+- Evaluating retrieval relevance and response quality using PDF-based questions.
